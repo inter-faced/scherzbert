@@ -2,4 +2,4 @@
 
 **Best of the Berts** 
 
-![Emi image](http://www.desicomments.com/wp-content/uploads/You-Rock-Garfield.jpg "Emi")
+![Emi catfish](https://github.com/inter-faced/scherzbert/blob/main/catfish-emule.jpg "Emi Catfish")
