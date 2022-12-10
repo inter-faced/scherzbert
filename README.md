@@ -1,8 +1,11 @@
-# Scherzbert
+# Scherzbert 
 
-**You are the Best of the Berts** 
+**❤️ You are the Best of the Berts ❤️** 
 
-![Emi catfish](catfish-emule.jpg "Emi Catfish")
+
+
+![Emi erdbeere](emi-erdbeere.gif "Emi Erdbeere")
 
 ![Emi schrank](emi-schrank.gif "Emi Schrank")
 
+![Emi catfish](catfish-emule.jpg "Emi Catfish")
