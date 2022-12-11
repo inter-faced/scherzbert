@@ -36,6 +36,7 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
+							'images/emi-catfish.gif': 'center',
 							'images/emi-erdbeere.gif': 'center',
 							'images/emi-dreigeileluader.gif': 'center',
 							'images/emi-schrank.gif': 'center',
